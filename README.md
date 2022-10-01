@@ -29,3 +29,7 @@ Minimum Output Sum of Squared Error (MOSSE) uses adaptive correlation for object
 
 ### 7. CSRT tracker
 In the Discriminative Correlation Filter with Channel and Spatial Reliability (DCF-CSR), we use the spatial reliability map for adjusting the filter support to the part of the selected region from the frame for tracking. This ensures enlarging and localization of the selected region and improved tracking of the non-rectangular regions or objects.
+
+
+## Tracking the object "Torch"
+![Screenshot 2022-10-01 23 23 34](https://user-images.githubusercontent.com/74766580/193422074-407002a0-165c-4d61-8594-6340be44a175.png)
