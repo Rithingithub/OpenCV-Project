@@ -33,3 +33,7 @@ In the Discriminative Correlation Filter with Channel and Spatial Reliability (D
 
 ## Tracking the object "Torch"
 ![Screenshot 2022-10-01 23 23 34](https://user-images.githubusercontent.com/74766580/193422074-407002a0-165c-4d61-8594-6340be44a175.png)
+<br><br>
+
+## Tracking Fails
+![Screenshot 2022-10-01 23 23 40](https://user-images.githubusercontent.com/74766580/193422190-34c0a24d-2293-454a-b3a8-a4e9a3db6a30.png)
